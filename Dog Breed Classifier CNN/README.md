@@ -25,3 +25,8 @@ Total Folders : 5750
 Single image can have one human face or multiple human face as well.
 
 ### You can see the detailed project design in the proposal.pdf document 
+
+### Final Project deliverables are available in the git folder for review
+1. Dog_Breed_App.ipynb
+2. Dog_Breed_App.pdf
+3. Project_Report.pdf
